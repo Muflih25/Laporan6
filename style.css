@@ -1,0 +1,50 @@
+body {
+    width: 100%;
+    margin: 30px;
+    background-color: antiquewhite;
+    justify-content: center;
+}
+
+#profile-container {
+    max-width: 300px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 6px;
+    margin-left: 40%;
+     text-align: center;
+     margin-top: 50px;
+}
+
+#profile-image {
+border-radius: 49%;
+  width: 149px;
+  height: 149px;
+  object-fit: cover;
+}
+
+#profile-name {
+  font-size: 24px;
+  margin-top: 20px;
+  color: #333;
+}
+
+#profile-details {
+  font-size: 18px;
+  color: #666;
+  margin-top: 10px;
+}
+.about
+{
+    text-align: center;
+}
+.kembali
+{
+  font-size: 18px;
+  color: #33d624;
+  margin-top: 10px;
+}
+.sosmed
+{
+    margin-left: 80%;
+    color: blue;
+}
